@@ -3,11 +3,37 @@ title: New Beginnings
 date: "2015-05-28T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
+This is a post about practice naming;
+Wix declared a Hackathon for employees.
+after some thoughts and casual feedback from my coworkers - my first idea was replaced by the second.
+first idea: gamified training of agents on our support inhouse platform. by the way - a partial story of Wix-Answers in Hebrew.
+screenshot of one inbox?
+was already somehow an ongoing project in CC education related team.
+second idea - a game to teach the naming skill - 
+## "Practice Naming 🔮"
+came to life.
+I posted a notice on the projects board, and 4 young developers signed in;
+a bit later- I actively recruted one of our brightest - Oz Sayag.
+we had a badge for project members and friends of the project.
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+photo of the badge
+photos of team members
+
+the whole presentation summarized
+
+achievements.
+
+photos from the hackaton., the weekend.. actually 3 days.
+
+my role. - gather the team, the challange of including out Ukranian friend.
+product poc and learning principals & game design concepts incorporated.
+
+some UX triX.
+
+
+
+
+
 
 ## On deer horse aboard tritely yikes and much
 
